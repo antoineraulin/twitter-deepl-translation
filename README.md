@@ -1,4 +1,4 @@
-# twitter-deepl-translation [![Version 1.0](https://img.shields.io/badge/version-1.0-brightgreen.svg)]()
+# DeePer [![Version 1.0](https://img.shields.io/badge/version-1.0-brightgreen.svg)]()
 A chrome extension that replaces Microsoft translation with the deepl translation engine on Twitter.
 
 ## Installation
