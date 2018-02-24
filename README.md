@@ -1,4 +1,4 @@
-# DeePer [![Version 1.0](https://img.shields.io/badge/version-1.0-brightgreen.svg)]() [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/antoineraulin/twitter-deepl-translation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/antoineraulin/twitter-deepl-translation/?branch=master)
+# DeePer [![Version 1.0](https://img.shields.io/badge/version-1.0-brightgreen.svg)]() [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/antoineraulin/twitter-deepl-translation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/antoineraulin/twitter-deepl-translation/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/antoineraulin/twitter-deepl-translation/badges/build.png?b=master)](https://scrutinizer-ci.com/g/antoineraulin/twitter-deepl-translation/build-status/master)
 A chrome extension that replaces Microsoft translation with the deepl translation engine on Twitter.
 
 ## Installation
